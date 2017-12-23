@@ -1,5 +1,15 @@
 <item>
+<title>beIn 1</title>
+<link>http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8</link>
+<thumbnail>http://tv.shabakaty.com/uploads/2017-10/24a079417d162fe14354097d254516cd.jpg</thumbnail>
+</item>
+<item>
 <title>beIn 2</title>
 <link>http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8</link>
-<thumbnail>http://tv.shabakaty.com/uploads/2017-10/24a079417d162fe14354097d254516cd.jpg</thumbnail>
+<thumbnail>http://tv.shabakaty.com/uploads/2017-10/82aa853bdc60fb1c1ac3b0d16c9b1532.jpg</thumbnail>
+</item>
+<item>
+<title>beIn 3</title>
+<link>http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8</link>
+<thumbnail>http://tv.shabakaty.com/uploads/2017-10/447f0cd2326d908bbcb4d09af0762adc.jpg</thumbnail>
 </item>
