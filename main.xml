@@ -1,5 +1,28 @@
 <item>
 <title>beIn 1</title>
-<link>http://stream.elcld.com:6001/sport/ch1/ch1_360.m3u8</link>
+<link>
+  <sublink>http://stream.elcld.com:6001/sport/ch1/ch1_360.m3u8</sublink>
+  <sublink>http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8</sublink>
+</link>
 <thumbnail>http://tv.shabakaty.com/uploads/2017-10/24a079417d162fe14354097d254516cd.jpg</thumbnail>
+</item>
+<item>
+<title>beIn 2</title>
+<link>http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8</link>
+<thumbnail>http://tv.shabakaty.com/uploads/2017-10/82aa853bdc60fb1c1ac3b0d16c9b1532.jpg</thumbnail>
+</item>
+<item>
+<title>beIn 3</title>
+<link>http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8</link>
+<thumbnail>http://tv.shabakaty.com/uploads/2017-10/447f0cd2326d908bbcb4d09af0762adc.jpg</thumbnail>
+</item>
+<item>
+<title>movie 1</title>
+<link>http://share.shabakaty.com/download.aspx?file=1330076508&sig=MjQvMTIvMjAxNyAwMTo0Mjo0OA==</link>
+<thumbnail>http://sh1.rgwha.elcld.com/share-thumbs/626205b3-b8f3-4fbc-86f8-518492a798ba/7c04013f56a348f7838b45d38a964116.jpg?AWSAccessKeyId=ZTCEWB8UCH1HR47ZQJYT&Expires=1516579445&response-cache-control=public%2C%20max-age%3D2592000&response-content-type=application%2Foctet-stream&Signature=HpfxGTZm%2F8z8sjVbsAKtV%2Fle7yo%3D</thumbnail>
+</item>
+<item>
+<title>movie 1</title>
+<link>http://share.shabakaty.com/download.aspx?file=1456636365&sig=MjQvMTIvMjAxNyAwMTo1NzoxMg==</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1OTcxNjU1MV5BMl5BanBnXkFtZTgwMzcwMTQ3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
