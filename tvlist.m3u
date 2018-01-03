@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/24a079417d162fe14354097d254516cd.jpg",beIN SPORT 1 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein1.jpg",beIN SPORT 1 720
 http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/82aa853bdc60fb1c1ac3b0d16c9b1532.jpg",beIN SPORT 2 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein2.jpg",beIN SPORT 2 720
 http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/447f0cd2326d908bbcb4d09af0762adc.jpg",beIN SPORT 3 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein3.jpg",beIN SPORT 3 720
 http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/14ef071b408c0d3e560f928ea8d60a5a.jpg",beIN SPORT 4 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein4.jpg",beIN SPORT 4 720
 http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/8d7d3baa917c7448feb95a42c6692f7b.jpg",beIN SPORT 5 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein5.jpg",beIN SPORT 5 720
 http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/c21b3c9723e81d223fb208558f86bfa1.jpg",beIN SPORT 6 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein6.jpg",beIN SPORT 6 720
 http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/6808a2181376ae72098b4fe1910a5940.jpg",beIN SPORT 7 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein7.jpg",beIN SPORT 7 720
 http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/e9f1bb4cfb3e81877cba2a2927809479.jpg",beIN SPORT 8 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein8.jpg",beIN SPORT 8 720
 http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shabakaty.com/uploads/2017-10/49c9e1cfc4a783a8fc385239ef3e51fc.jpg",beIN SPORT 9 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein9.jpg",beIN SPORT 9 720
 http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
