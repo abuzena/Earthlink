@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein1.jpg",beIN SPORT 1 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein1.jpg",1HD
 http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein2.jpg",beIN SPORT 2 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein2.jpg",2HD
 http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein3.jpg",beIN SPORT 3 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein3.jpg",3HD
 http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein4.jpg",beIN SPORT 4 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein4.jpg",4HD
 http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein5.jpg",beIN SPORT 5 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein5.jpg",5HD
 http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein6.jpg",beIN SPORT 6 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein6.jpg",6HD
 http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein7.jpg",beIN SPORT 7 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein7.jpg",7HD
 http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein8.jpg",beIN SPORT 8 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein8.jpg",8HD
 http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein9.jpg",beIN SPORT 9 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abuzena/Earthlink/master/img/bein9.jpg",9HD
 http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
